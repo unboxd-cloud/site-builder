@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://unboxd-cloud.github.io/site-builder/sitemap.xml
